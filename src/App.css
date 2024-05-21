@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  display:flex;
+}
+
+.container{
+  flex-wrap: wrap;
+
+  margin-top:50px;
+}
+.mytodo{
+  float:left;
+}
+.statuss{
+  float:right;
+}
+.card{
+  height:200px;
+  display:flex;
+  flex-wrap: wrap;
+  gap:10px;
+}
+.input{
+  display:flex;
+}
+.map{
+  flex-wrap: wrap;
+  display:flex;
+  gap:10px;
+}
